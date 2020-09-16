@@ -1,4 +1,4 @@
-% this source is used to construct and train network 
+% this file is for constructing and training network 
 
 clear all;
 close all;
